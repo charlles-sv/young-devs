@@ -2,7 +2,7 @@
 # Young Dev's
 
 div align="center"
-img src="![landing-page](https://github.com/CharllesAugusto/Young-Devs/assets/65834101/bdf65381-e284-4581-8a75-a5374665fe49)" width="700px" /
+img src="![landing-page](https://github.com/charlles-sv/young-devs/assets/65834101/88ab7eba-639d-485f-b056-df265a9beae0)" width="700px" /
 /div
 
 Este repositório contém o código-fonte e os recursos para a landing page de uma startup chamada **Futuros Programadores**. A startup é um projeto social que oferece cursos intensivos e gratuitos de programação para jovens do ensino médio, com o objetivo de prepará-los para o mercado de trabalho e incentivar o desenvolvimento de soluções tecnológicas para problemas sociais.
@@ -11,7 +11,7 @@ Este repositório contém o código-fonte e os recursos para a landing page de u
 
 A landing page apresenta a missão, a visão, os valores, os cursos, os instrutores, os depoimentos e os parceiros da startup, além de um formulário de inscrição para os interessados em participar do projeto. A página utiliza HTML, CSS e JavaScript, e segue os princípios de design responsivo e acessibilidade.
 
-Você pode acessar a página online através deste [link].
+Você pode acessar a página online através deste [https://young-devs.vercel.app/].
 
 ## Como executar o projeto localmente
 
